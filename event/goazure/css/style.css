@@ -262,7 +262,6 @@ table tbody td.business p {
 table tbody td.business p a {
 	color: #0072c6;
 	background-image: none;
-    display: inline;
  }
 table tbody td.business a:hover {
 	background-color: #CCFFFF;
