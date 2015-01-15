@@ -209,11 +209,14 @@ table .time {
 table .KeyNote {
 	padding:3px;
 }
+table .room-HP {
+	width:256px;
+	padding:3px;
+}
 table .RoomA,
 table .RoomB,
 table .RoomC,
-table  .RoomD,
-table .Hackfest {
+table .RoomD {
 	width:124px;
 	padding:3px;
 }
